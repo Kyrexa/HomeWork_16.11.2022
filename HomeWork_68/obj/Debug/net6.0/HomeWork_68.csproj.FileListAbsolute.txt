@@ -1,0 +1,15 @@
+C:\Users\Arzam\OneDrive\Рабочий стол\Учёба\Программирование\HomeWork2_11.11.2022\HomeWork_68\bin\Debug\net6.0\HomeWork_68.exe
+C:\Users\Arzam\OneDrive\Рабочий стол\Учёба\Программирование\HomeWork2_11.11.2022\HomeWork_68\bin\Debug\net6.0\HomeWork_68.deps.json
+C:\Users\Arzam\OneDrive\Рабочий стол\Учёба\Программирование\HomeWork2_11.11.2022\HomeWork_68\bin\Debug\net6.0\HomeWork_68.runtimeconfig.json
+C:\Users\Arzam\OneDrive\Рабочий стол\Учёба\Программирование\HomeWork2_11.11.2022\HomeWork_68\bin\Debug\net6.0\HomeWork_68.dll
+C:\Users\Arzam\OneDrive\Рабочий стол\Учёба\Программирование\HomeWork2_11.11.2022\HomeWork_68\bin\Debug\net6.0\HomeWork_68.pdb
+C:\Users\Arzam\OneDrive\Рабочий стол\Учёба\Программирование\HomeWork2_11.11.2022\HomeWork_68\obj\Debug\net6.0\HomeWork_68.csproj.AssemblyReference.cache
+C:\Users\Arzam\OneDrive\Рабочий стол\Учёба\Программирование\HomeWork2_11.11.2022\HomeWork_68\obj\Debug\net6.0\HomeWork_68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arzam\OneDrive\Рабочий стол\Учёба\Программирование\HomeWork2_11.11.2022\HomeWork_68\obj\Debug\net6.0\HomeWork_68.AssemblyInfoInputs.cache
+C:\Users\Arzam\OneDrive\Рабочий стол\Учёба\Программирование\HomeWork2_11.11.2022\HomeWork_68\obj\Debug\net6.0\HomeWork_68.AssemblyInfo.cs
+C:\Users\Arzam\OneDrive\Рабочий стол\Учёба\Программирование\HomeWork2_11.11.2022\HomeWork_68\obj\Debug\net6.0\HomeWork_68.csproj.CoreCompileInputs.cache
+C:\Users\Arzam\OneDrive\Рабочий стол\Учёба\Программирование\HomeWork2_11.11.2022\HomeWork_68\obj\Debug\net6.0\HomeWork_68.dll
+C:\Users\Arzam\OneDrive\Рабочий стол\Учёба\Программирование\HomeWork2_11.11.2022\HomeWork_68\obj\Debug\net6.0\refint\HomeWork_68.dll
+C:\Users\Arzam\OneDrive\Рабочий стол\Учёба\Программирование\HomeWork2_11.11.2022\HomeWork_68\obj\Debug\net6.0\HomeWork_68.pdb
+C:\Users\Arzam\OneDrive\Рабочий стол\Учёба\Программирование\HomeWork2_11.11.2022\HomeWork_68\obj\Debug\net6.0\HomeWork_68.genruntimeconfig.cache
+C:\Users\Arzam\OneDrive\Рабочий стол\Учёба\Программирование\HomeWork2_11.11.2022\HomeWork_68\obj\Debug\net6.0\ref\HomeWork_68.dll
